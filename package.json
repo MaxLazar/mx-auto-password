@@ -1,0 +1,12 @@
+{
+    "schema_version": "1.0",
+    "name": "mx_auto_password",
+    "label": "MX Auto Password",
+    "version": "0.6",
+    "types": ["extension", "accessory"],
+    "paths": {
+        "system": [
+            "system/expressionengine/third_party/mx_auto_password"
+        ]
+    }
+}
